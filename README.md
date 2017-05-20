@@ -1,0 +1,2 @@
+# Data-Collection-Assignment
+You are to come up with a data collection concept that you will use to develop a data collection electronic form using ODK build. You will upload this to your phone and make sure the pipeline phone-to-server is working. You will collect data based on your concept and the data should include atleast two of the following types of data images, GPS coordinates, videos, audio in addition to the usual text and numeric fields as per your concept.
